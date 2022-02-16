@@ -1,7 +1,7 @@
 <?php
 defined('BASEPATH') OR exit('No direct script access allowed');
 
-class pelanggan extends CI_Controller {
+class login extends CI_Controller {
 
 	public function __construct()
     {
@@ -29,18 +29,11 @@ class pelanggan extends CI_Controller {
 	 */
 	public function index()
 	{
-		$this->load->view('pelanggan/home');
+		$this->load->view('admin/login');
 	}
-	public function login()
+	
+	public function logout()
 	{
-		$this->load->view('pelanggan/login');
-	}
-	public function data()
-	{
-		$this->load->view('pelanggan/data');
-	}
-	public function proses_login()
-	{
-		redirect('pelanggan/data');
+		
 	}
 }
