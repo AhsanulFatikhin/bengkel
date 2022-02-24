@@ -10,7 +10,12 @@ class company_profile extends CI_Controller {
 	
 	public function index()
 	{
-		echo 'Hello Word';
-		// $this->load->view('admin/login');
+		$this->load->view('company_profile');
+	}
+	public function compro()
+	{
+		$this->load->view('compro/header');
+		$this->load->view('compro/compro');
+		$this->load->view('compro/footer');
 	}
 }
