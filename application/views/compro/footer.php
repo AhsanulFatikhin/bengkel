@@ -64,7 +64,7 @@
 <!-- footer upper end-->
 
 <!-- footer-->
-<footer>
+<footer style="margin-top: 50px;">
     <div class="container">
         <div class="row">
             <div class="col-sm-12 no-padding copy-right text-center">

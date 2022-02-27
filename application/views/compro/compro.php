@@ -124,39 +124,41 @@
                     <div class="main-heading text-center col-sm-12">
                         <h2>CONTACT US</h2>
                     </div>
-                <div class="row">
                     <div class="col-sm-12 no-padding contact-base">
-                        <div class="col-sm-12">
+                        <div class="col-sm-4" style="margin-top: 50px;">
                             <div class="contact-item">
                                 <div class="icon pull-left">
-                                    <i class="fa fa-map-o"></i>
+                                <i class="fa-solid fa-map-location-dot"></i>
                                 </div>
                                 <div class="contact-text">
                                     <h5><a href="#">Maps</a></h5>
                                     <a href="#">42/2 North road, London, England</a>
                                 </div>
                             </div>
+                        </div>
+                        <div class="col-sm-4" style="margin-top: 50px;">
                             <div class="contact-item">
                                 <div class="icon pull-left">
-                                    <i class="fa fa-envelope-o"></i>
+                                    <i class="fa fa-instagram"></i>
                                 </div>
                                 <div class="contact-text">
-                                    <h5>Intagram</h5>
-                                    <a href="mailto:support@industry.com">AT Auto Detailing</a>
+                                    <h5><a href="#">Instagram</a></h5>
+                                    <a href="#">AT Auto Detailing</a>
                                 </div>
                             </div>
+                        </div>
+                        <div class="col-sm-4"style="margin-top: 50px;">
                             <div class="contact-item">
                                 <div class="icon pull-left">
-                                    <i class="fa fa-phone"></i>
+                                    <i class="fa fa-whatsapp"></i>
                                 </div>
                                 <div class="contact-text">
-                                    <h5>Whatsapp</h5>
-                                    <a href="tel:+789675978">+(789) 675 978</a>
+                                    <h5><a href="#">Whatsapp</a></h5>
+                                    <a href="#">08512345672</a>
                                 </div>
                             </div>
                         </div>
                     </div>
-                </div>
                 </div>
             </div>
         </div>
